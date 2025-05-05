@@ -38,13 +38,17 @@ Welcome to Travista, a modern, responsive travel-friendly website built using HT
     ├── style.css
     ├── pages
     |   ├── about.html
-    |   └── contact.html  
+    |   ├── contact.html
+    |   ├── support.html
+    |   └── help.html
     ├── scripts
     │   ├── card.js
-    │   ├── support.js
-    │   └── script.js
+    │   ├── script.js
+    │   ├── help.js
+    │   └── support.js
     ├── utils
-    │   └── destinations.json
+    │   ├── destinations.json
+    │   └── help.json
     ├── assets/
     │   ├── images/
     |   └── support.css
