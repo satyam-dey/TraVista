@@ -44,7 +44,7 @@
       },
       {
         "name": "DURGAPUR BARRAGE",
-        "image": "../assests/Durgapur_Barrage.webp",
+        "image": "../assests/Durgapur_barrage.webp",
         "category": "Water Reserve"
       }
     ]
@@ -124,7 +124,7 @@
       },
       {
         "name": "JOYPUR FOREST",
-        "image": "../assests/Joypur_Forest.webp",
+        "image": "../assests/Joypur_forest.webp",
         "category": "Forest Reserve"
       },
       {
