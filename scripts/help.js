@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .then(response => response.json())
       .then(data => {
         helpData = shuffleArray(data.help_questions);
-        displayFAQs(helpData); // Show shuffled list
+        displayFAQs(helpData);
       })
       .catch(error => {
         console.error("Failed to load help_questions.json", error);
