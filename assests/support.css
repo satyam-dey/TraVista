@@ -1,0 +1,21 @@
+.navbar-brand {
+    font-weight: bold;
+}
+
+nav {
+    font-family: "Comfortaa", sans-serif;
+}
+
+.gap {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.main {
+    padding-top: 15rem;
+    font-family: "Comfortaa", sans-serif;
+}
+
+footer {
+    font-family: "Comfortaa", sans-serif;
+}

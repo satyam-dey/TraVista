@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travista-About Us</title>
+    <style>
+        body {
+            background-color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+            padding: 20px;
+            padding-top: 70px;
+        }
+
+        nav {
+            font-family: "Comfortaa", sans-serif;
+        }
+
+        .main-container {
+            font-family: "Comfortaa", sans-serif;
+        }
+
+        h1,
+        h2 {
+            margin-bottom: 40px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .about-box {
+            /* border: 1px solid black; */
+            padding: 20px;
+            margin-bottom: 40px;
+        }
+
+        .contributors {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+        }
+
+
+
+        .navbar-brand {
+            font-weight: bold;
+        }
+
+        .gap {
+            margin-top: 4rem;
+            margin-bottom: 4rem;
+        }
+
+        footer {
+            font-family: "Comfortaa", sans-serif;
+        }
+
+        [data-aos] {
+            opacity: 0;
+            transition-property: opacity, transform;
+        }
+
+        [data-aos].aos-animate {
+            opacity: 1;
+        }
+    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap">
+</head>
+
+<body>
+    <!-- navigation bar -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+        <div class="container-fluid">
+            <img src="../assests/t.webp" alt="logo" height="50 vh" >
+            <a class="navbar-brand" href="#">&nbsp;Bengal Travista</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="../index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            More
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Destination</a></li>
+                            <li><a class="dropdown-item" href="help.html">Help</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="support.html">Support</a></li>
+                            <li><a class="dropdown-item" href="contact.html">Contact Us</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+
+                <a class="btn btn-outline-primary" href="signup/signin" role="button">Sign up/ Sign in</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- about content -->
+    <div class="main-container">
+        <div class="gap"></div>
+
+        <!-- about the site -->
+        <h1 data-aos="zoom-in">ABOUT US</h1>
+        <div class="about-box" data-aos="fade-down">
+            <p>
+                &nbsp;&nbsp;&nbsp;&nbsp;Welcome to Bengal Travista : Travel wide, feel Alive. Our moto is to drive
+                travel-thirsty tourists all
+                over the country through the wide range of popular tourist hotspots. We serve as a guide for tourists
+                who often missout underrated yet charming spots due to lack of accuracy of location on maps. We provide
+                ample information about various popular and even underrated tourist destinations all over India,covering
+                almost every corner. We even provide exact google map location pinned with our hotspots , so that
+                travellers can reach them out easily without missing out any of their favourite spot. So, come on join
+                us as we uncover the stories, cultures, and hidden gems that make India a journey like no other. Our
+                customer care team is always ready to resolve your issues ,kindly navigate to our contact us section.
+            </p>
+        </div>
+
+        <!-- about the contributors -->
+        <h2 data-aos="zoom-in">CONTRIBUTORS</h2>
+        <div class="gap"></div>
+        <div class="container my-4">
+            <div class="row featurette d-flex justify-content-center align-items-center">
+                <div class="col-md-7" data-aos="fade-right">
+                    <h2 class=" featurette-heading">Satyam Dey</h2>
+                    <p class="lead">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an Electronics and Communication Engineer with expertise in photography, video editing, and
+                        frontend development. My unique blend of technical knowledge and creative skills allows me to tackle
+                        challenges with innovative solutions.</p>
+                </div>
+                <div class="col-md-5 d-flex justify-content-center profile" data-aos="fade-left">
+                    <img class="img-fluid rounded" src="../assests/satyam.webp" alt="satyam" style="height: 400px; width: 300px">
+
+                </div>
+            </div>
+        </div>
+
+        <div class="gap"></div>
+
+        <!-- footer -->
+        <footer class="container py-4 border-top">
+            <div class="row w-100 align-items-center">
+                <div class="col-md-6 text-center text-md-start">
+                    <p class="mb-0">© 2025 Travista, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <a href="#" onclick="window.scrollTo({ top: 0, behavior: 'smooth' }); return false;">Back to top</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 800,
+            easing: "ease-in-out", // duration of animation in ms
+            once: false, // allow animation every time element is scrolled
+            mirror: true, // animate out while scrolling past
+        });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

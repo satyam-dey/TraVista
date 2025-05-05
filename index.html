@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Travista</title>
+    <meta property="og:title" content="Travista" />
+    <meta property="og:description" content="It is a travel friendly website. Click the link to go through it." />
+    <meta property="og:image" content="./assests/nature.webp" />
+    <meta property="og:url" content="https://travista-swart.vercel.app/" />
+    <meta property="og:type" content="website" />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap">
+</head>
+
+<body>
+
+    <!-- Loader -->
+    <div id="loader" class="d-flex justify-content-center align-items-center vh-100 bg-white position-fixed w-100 z-3">
+        <img src="./assests/t.webp" alt="Loading..." class="spinner-img">
+    </div>
+
+    <div id="animated-text"
+        class="d-flex flex-column justify-content-center align-items-center vh-100 position-fixed w-100 z-2">
+        <div class="overlay"></div>
+        <h1 id="main-line" style=" font-weight: bold;"></h1>
+        <h4 id="sub-line"></h4>
+    </div>
+
+    <script src="./scripts/script.js" defer></script>
+
+    <!-- <div class="scrollable-div p-3"> -->
+    <!-- Main Content -->
+    <div id="main-content" style="display: none;">
+
+        <!-- navigation bar -->
+        <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+            <div class="container-fluid">
+                <img src="./assests/t.webp" alt="logo" height="50 vh">
+                <a class="navbar-brand" href="#">&nbsp;Bengal Travista</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Destinations</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                                More
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="./pages/about.html">About</a></li>
+                                <li><a class="dropdown-item" href="./pages/help.html">Help</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="./pages/support.html">Support</a></li>
+                                <li><a class="dropdown-item" href="./pages/contact.html">Contact Us</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <form class="d-flex" role="search" id="search-form">
+                        <input id="search-input" class="form-control me-2" type="search" placeholder="Search to travel"
+                            aria-label="Search">
+                        <button class="btn btn-outline-success me-2" type="submit">Search</button>
+                    </form>
+
+                    <a class="btn btn-outline-primary" href="signup/signin" role="button">Sign up/ Sign in</a>
+                </div>
+            </div>
+        </nav>
+        <!-- Hero Section -->
+        <main>
+            <div class=" alert alert-info alert-dismissible fade show" role="alert">
+                <a href="signup/signin" class="alert-link">Sign up/ Sign in</a> for better experience. Give it a
+                click if you
+                like.
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+
+            <!-- Ads -->
+            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+
+                    <div class="carousel-item active">
+                        <img src="./assests/falls.webp" class="d-block w-100" style="height: 620px;" alt="...">
+                        <div class="overlay"></div>
+                        <div class="carousel-caption d-none d-md-block z-2">
+                            <h3>Feel the Power of Nature</h3>
+                            <p>Stand in awe of majestic waterfalls and let the roar refresh your soul.</p>
+                            <button class="btn btn-danger">Travel</button>
+                            <button class="btn btn-primary">Destination</button>
+                            <button class="btn btn-success">Book</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="./assests/canyon.webp" class="d-block w-100" style="height: 620px;" alt="...">
+                        <div class="overlay"></div>
+                        <div class="carousel-caption d-none d-md-block z-2">
+                            <h3>Wander Where the Earth Speaks</h3>
+                            <p>Discover ancient canyons carved by time and rich with adventure.</p>
+                            <button class="btn btn-danger">Travel</button>
+                            <button class="btn btn-primary">Destination</button>
+                            <button class="btn btn-success">Book</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="./assests/forest.webp" class="d-block w-100" style="height: 620px;" alt="...">
+                        <div class="overlay"></div>
+                        <div class="carousel-caption d-none d-md-block z-2">
+                            <h3>Breathe the Wild</h3>
+                            <p>Lose yourself in the serene whispers of evergreen forests.</p>
+                            <button class="btn btn-danger">Travel</button>
+                            <button class="btn btn-primary">Destination</button>
+                            <button class="btn btn-success">Book</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="./assests/beach.webp" class="d-block w-100" style="height: 620px;" alt="...">
+                        <div class="overlay"></div>
+                        <div class="carousel-caption d-none d-md-block z-2">
+                            <h3>Chase the Sun</h3>
+                            <p>Soak in golden sunsets, soft sands, and tranquil waves.</p>
+                            <button class="btn btn-danger">Travel</button>
+                            <button class="btn btn-primary">Destination</button>
+                            <button class="btn btn-success">Book</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="./assests/nature.webp" class="d-block w-100" style="height: 620px;" alt="...">
+                        <div class="overlay"></div>
+                        <div class="carousel-caption d-none d-md-block z-2">
+                            <h3>Reconnect with the Earth</h3>
+                            <p>Unplug from the routine and step into pure, untouched nature.</p>
+                            <button class="btn btn-danger">Travel</button>
+                            <button class="btn btn-primary">Destination</button>
+                            <button class="btn btn-success">Book</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="./assests/mountain.webp" class="d-block w-100" style="height: 620px;" alt="...">
+                        <div class="overlay"></div>
+                        <div class="carousel-caption d-none d-md-block z-2">
+                            <h3>Reach New Heights</h3>
+                            <p>Conquer peaks, find peace, and embrace the thrill of the climb.</p>
+                            <button class="btn btn-danger">Travel</button>
+                            <button class="btn btn-primary">Destination</button>
+                            <button class="btn btn-success">Book</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="./assests/lake.webp" class="d-block w-100" style="height: 620px;" alt="...">
+                        <div class="overlay"></div>
+                        <div class="carousel-caption d-none d-md-block z-2">
+                            <h3>Drift into Calm</h3>
+                            <p>Float on still waters and let your mind wander.</p>
+                            <button class="btn btn-danger">Travel</button>
+                            <button class="btn btn-primary">Destination</button>
+                            <button class="btn btn-success">Book</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <img src="./assests/tunnel.webp" class="d-block w-100" style="height: 620px;" alt="...">
+                        <div class="overlay"></div>
+                        <div class="carousel-caption d-none d-md-block z-2">
+                            <h3>Journey Through the Unexpected</h3>
+                            <p>Explore hidden paths and discover stories beneath the surface.</p>
+                            <button class="btn btn-danger">Travel</button>
+                            <button class="btn btn-primary">Destination</button>
+                            <button class="btn btn-success">Book</button>
+                        </div>
+                    </div>
+
+
+
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="gap"></div>
+
+            <!-- Destinations Cards -->
+            <div class="container" id="card-sections"></div>
+            <script src="./scripts/card.js"></script>
+
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+                integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq"
+                crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+        </main>
+        <footer class="container py-4 border-top">
+            <div class="row w-100 align-items-center">
+                <div class="col-md-6 text-center text-md-start">
+                    <p class="mb-0">© 2025 Travista, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <a href="#" onclick="window.scrollTo({ top: 0, behavior: 'smooth' }); return false;">Back to top</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+
+</html>

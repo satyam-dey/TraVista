@@ -1,0 +1,652 @@
+[
+  {
+    "destination": "ALIPURDUAR",
+    "spots": [
+      {
+        "name": "JALDAPARA NATIONAL PARK",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Elephant_safari.jpg",
+        "category": "Forest Reserve"
+      },
+      {
+        "name": "BUXA TIGER RESERVE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Buxa_Tiger_Reserve_forest_2014.jpg",
+        "category": "Tiger Reserve"
+      },
+      {
+        "name": "COOCH BEHAR PALACE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_Cooch_Behar_Palace_or_the_Cooch_Behar_Rajbari%2C_Cooch_Behar_District%2C_West_Bengal%2C_India_01.jpg",
+        "category": "Heritage"
+      },
+      {
+        "name": "GORUMARA NATIONAL PARK",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Gorumara_Gateway_Arnab_Dutta.JPG",
+        "category": "Forest Reserve"
+      }
+    ]
+  },
+  {
+    "destination": "ASANSOL",
+    "spots": [
+      {
+        "name": "MAITHON DAM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Maithon_dam%2C_india.jpg/1536px-Maithon_dam%2C_india.jpg",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "KALYANESWARI TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mother_Kalyaneshwari_Temple%2C_Maithan_77.jpg/768px-Mother_Kalyaneshwari_Temple%2C_Maithan_77.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "GHAGAR BURI CHANDI TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ghagar_Buri_Temple%2C_Asansol.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "DURGAPUR BARRAGE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Durgapur_barrage2.jpg",
+        "category": "Water Reserve"
+      }
+    ]
+  },
+  {
+    "destination": "BANKURA",
+    "spots": [
+      {
+        "name": "SUSUNIA HILL",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/29RCCMAK_-_Susunia_Hill.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "BIHARINATH HILL",
+        "image": "https://cvsqtgaxsa.cloudimg.io/https://images.prismic.io/indiahike/28279-1612104369368-1.jpg?w=900&q=50&org_if_sml=1",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "GANGDUA DAM",
+        "image": "https://cdn.s3waas.gov.in/s38e82ab7243b7c66d768f1b8ce1c967eb/uploads/2020/07/2020070716.jpg",
+        "category": "Water Reserve"
+      }
+    ]
+  },
+  {
+    "destination": "BARDHAMAN",
+    "spots": [
+      {
+        "name": "SARBAMANGLA TEMPLE",
+        "image": "https://im.hunt.in/cg/barddhaman/City-Guide/SarbamanglaDeviTemple.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "CURZON GATE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Curzon_Gate.jpg",
+        "category": "Historical Spot"
+      },
+      {
+        "name": "108 SHIV TEMPLES",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/108_Shiva_Temple%2C_Ambika-Kalna%2C_Bardhaman%2C_West_Bengal.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SCIENCE CENTRE & PLANETARIUM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bardhaman_Science_Centre_-_Bardhaman_2015-07-24_1534.JPG",
+        "category": "Knowledge Spot"
+      },
+      {
+        "name": "GOLAPBAG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Golapbag.jpg",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "BISHNUPUR",
+    "spots": [
+      {
+        "name": "RASMANCHA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Rasmancha_Arnab_Dutta_2011.JPG",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "MADAN MOHAN TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Madan_Mohan_Temple_of_Bishnupur_District_of_West_Bengal.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "JORE BANGLA TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jor_Bangla_or_Keshta_Raya_temple_of_Bishnupur._Built_by_Raghunath_Singha_in_1655_AD._23.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "SHYAM RAI TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Shyamrahi_Temple.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "JOYPUR FOREST",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Joypur_forest_range_in_Bankura_district_11.jpg",
+        "category": "Forest Reserve"
+      },
+      {
+        "name": "JOYRAMBATI AND KAMARPUKUR",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sarada_Devi_Jayrambati.jpg",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "BOLPUR(SHANTINIKETAN)",
+    "spots": [
+      {
+        "name": "VISWA BHARATI UNIVERSITY",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vidyalaya_Griha_-_1899_CE_-_Santiniketan_2014-06-29_5541.JPG",
+        "category": "Knowledge Spot/Heritage"
+      },
+      {
+        "name": "SONAJHURI HAAT",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Khoai_Mela_2.jpg",
+        "category": "Nature"
+      },
+      {
+        "name": "KOPAI RIVER",
+        "image": "https://www.kopaipaar.com/wp-content/uploads/2016/10/River-Kopai-Bolpur-India-1080x809.jpg",
+        "category": "Nature"
+      },
+      {
+        "name": "BALLAVPUR WILDLIFE SANCTUARY",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/80/4b/4a/deer-park.jpg",
+        "category": "Wildlife Reserve"
+      }
+    ]
+  },
+  {
+    "destination": "CENTRAL KOLKATA",
+    "spots": [
+      {
+        "name": "HOWRAH BRIDGE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Howrah_bridge_at_night.jpg",
+        "category": "Heritage"
+      },
+      {
+        "name": "VICTORIA MEMORIAL",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Victoria_Memorial_situated_in_Kolkata.jpg",
+        "category": "Heritage"
+      },
+      {
+        "name": "INDIAN MUSUEM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Indian_Museum%2C_Courtyard%2C_Kolkata%2C_India.jpg/1536px-Indian_Museum%2C_Courtyard%2C_Kolkata%2C_India.jpg",
+        "category": "Knowledge Spot/Heritage"
+      },
+      {
+        "name": "BIRLA PLANETARIUM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Birla_Planetarium%2C_Kolkata.jpg/1497px-Birla_Planetarium%2C_Kolkata.jpg",
+        "category": "Knowledge Spot"
+      },
+      {
+        "name": "PRINSEP GHAT",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PrincepGhat.jpg/1530px-PrincepGhat.jpg",
+        "category": "Nature/Heritage"
+      },
+      {
+        "name": "ST.PAUL'S CATHEDRAL",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/St_Paul%27s_Cathedral.jpg/1536px-St_Paul%27s_Cathedral.jpg",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "DARJEELING",
+    "spots": [
+      {
+        "name": "TIGER HILL",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tiger_Hill_Darjeeling_West_Bengal_India_%283%29.JPG",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "BATASIA LOOP",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Batasia_Loop_War_Memorial_with_Kanchanjunga.jpg",
+        "category": "Nature/Heritage"
+      },
+      {
+        "name": "ROCK GARDENS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Darjeeling_Rock_Garden.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "DARJEELING TEA GARDENS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Happy_Valley_Tea_Estate%2C_Darjeeling.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "PADMAJA NAIDU  ZOOLOGICAL PARK",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Red_Panda_Darjeeling.jpg",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "MAHAKAL MANDIR",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Temple%2C_Observatory_Hill%2C_Darjeeling.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "GHOOM MONASTERY",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Yiga_Choeling_Monastery%2C_Ghum_02.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "GHOOM STATION",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ghum_Railway_station.jpg",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "DIGHA",
+    "spots": [
+      {
+        "name": "DIGHA SEA BEACH",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sunrise_%40_Digha.jpg",
+        "category": "Nature"
+      },
+      {
+        "name": "MARINE AQUARIUM &RESEARCH CENTRE",
+        "image": "https://www.trawell.in/admin/images/upload/582455436Digha_Marine_Aquarium_Main.jpg",
+        "category": "Knowledge Spot"
+      },
+      {
+        "name": "UDAIPUR BEACH",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/61/9b/5f/20150808-180528-largejpg.jpg?w=1600&h=-1&s=1",
+        "category": "Nature"
+      },
+      {
+        "name": "TALSARI BEACH",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Talsari_1.jpg",
+        "category": "Nature"
+      },
+      {
+        "name": "SHANKARPUR BEACH",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Beach_Walk_-_Sankarpur_Beach_-_East_Midnapore_2015-05-02_9222.JPG",
+        "category": "Nature"
+      },
+      {
+        "name": "DIGHA MOHONA",
+        "image": "https://res.cloudinary.com/dyiffrkzh/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_405,q_auto,w_750/v1685622356/bbj/vfwifwsxcpkjeynejycl.jpg",
+        "category": "Nature"
+      },
+      {
+        "name": "MANDARMANI SEA BEACH",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Mandarmani_Sea_Beach.jpg",
+        "category": "Nature"
+      },
+      {
+        "name": "TAJPUR SEA BEACH",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sunset_in_Tajpur_Beach.jpg",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "HOOGHLY",
+    "spots": [
+      {
+        "name": "BANDEL CHURCH",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bandel_Basilica%2C_Hooghly_%28West-Bengal%29.jpg/1365px-Bandel_Basilica%2C_Hooghly_%28West-Bengal%29.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "HOOGHLY IMAMBARA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Courtyard_-_Imambara_-_Chinsurah_-_Hooghly_-_2013-05-19_7838.JPG/1540px-Courtyard_-_Imambara_-_Chinsurah_-_Hooghly_-_2013-05-19_7838.JPG",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "HANGSESWARI TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hanseswari_Mandir.jpg/1365px-Hanseswari_Mandir.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "CHANDANNAGAR STRAND GHAT",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dourgachorone_Roquitte_Souvenir_-_Strand_Road_-_Chandan_Nagar_-_Hooghly_-_2013-05-19_-_2013-05-19_7887.JPG/1540px-Dourgachorone_Roquitte_Souvenir_-_Strand_Road_-_Chandan_Nagar_-_Hooghly_-_2013-05-19_-_2013-05-19_7887.JPG",
+        "category": "Nature/Heritage"
+      },
+      {
+        "name": "ITACHUNA RAJBARI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Itachuna_rajbari.jpg/1536px-Itachuna_rajbari.jpg",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "JHARGRAM",
+    "spots": [
+      {
+        "name": "JHARGRAM RAJ PALACE",
+        "image": "https://www.nomadicweekends.com/wp-content/uploads/2018/11/Jhargram-Raj-Baari-1.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "CHILKIGARH  PALACE",
+        "image": "https://wbtourismdotblog.wordpress.com/wp-content/uploads/2020/06/tourism-chilkigarh.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "JUNGLEMAHAL ZOOLOGICAL PARK",
+        "image": "https://banglajagotv.com/wp-content/uploads/2024/12/jangalmahal.jpeg",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "GHAGRA WATERFALLS",
+        "image": "https://wbtourismdotblog.wordpress.com/wp-content/uploads/2020/06/tourism-ghagra.jpg",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "KALIMPONG",
+    "spots": [
+      {
+        "name": "DEOLO HILL PARK",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Deolo.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "DURPIN DARA ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Durpin2.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "DURPIN MONASTERY",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Zang_Dhok_Palri_Phodang_01.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "MORGAN HOUSE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Morgan_House_Kalimpong_2.jpg",
+        "category": "Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "KRISHNANAGAR",
+    "spots": [
+      {
+        "name": "KRISHNANAGAR RAJBARI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Krishnanagar_Palace.jpg/1920px-Krishnanagar_Palace.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "JALANGI RIVER",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Jalangi_River.jpg/1748px-Jalangi_River.jpg",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "KURSEONG",
+    "spots": [
+      {
+        "name": "EAGLE'S CRAG VIEWPOINT",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kurseong_panorama_by_Mayukh_Ghose.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "MAKAIBARI TEA ESTATE",
+        "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2021/10/14175527/Makaibari-Featured-Image.jpg?tr=w-1280,f-jpg,pr-true",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "DOWHILL",
+        "image": "https://static.india.com/wp-content/uploads/2022/11/dow-hill.jpg?impolicy=Medium_Widthonly&w=700",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "AMBOTIA SHIVA TEMPLE",
+        "image": "https://1001things.org/wp-content/uploads/2019/01/Ambotia-8.jpg",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "MALDA ",
+    "spots": [
+      {
+        "name": "ADINA MOSQUE ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Adina_Mosque_at_Malda_district_of_West_Bengal_08.jpg",
+        "category": "Religious Spot/Heritage"
+      },
+      {
+        "name": "MALDA MUSEUM",
+        "image": "https://shop.museumsofindia.org/sites/default/files/2018-04/DSCN2397%20%28FILEminimizer%29.JPG",
+        "category": "Knowledge Spot"
+      },
+      {
+        "name": "FARAKKA BARRAGE",
+        "image": "https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/farakka-barrage-260824-02-1724689543.jpg",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "MAYAPUR/ NABADWIP",
+    "spots": [
+      {
+        "name": "ISKCON CHANDRODAYA TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mayapur-India-2023.jpg/1536px-Mayapur-India-2023.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SRI PRABHUPADA'S PUSHPA SAMADHI ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Samadhi_Mandir_of_Srila_Prabhupada%2C_Mayapur_07102013_04.jpg/1295px-Samadhi_Mandir_of_Srila_Prabhupada%2C_Mayapur_07102013_04.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SRI CHAITANYA MATH",
+        "image": "https://www.holidify.com/images/compressed/1575.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SONAR GOURANGA TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sonar_Gouranga_deities%2C_Sonar_Gouranga_Temple%2C_Nabadwip.jpg",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "MEDINIPUR",
+    "spots": [
+      {
+        "name": "MUKUTMANIPUR DAM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mukutmanipur_Dam%2C_Khatra_subdivision%2C_Bankura_district%2C_West_Bengal%2C_India_01.jpg",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "GANGANI  (BENGAL'S GRAND CANYON)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Shilabati_river_flowing_past_the_Gangani_ravines.jpg",
+        "category": "Nature"
+      },
+      {
+        "name": "JHILIMILI",
+        "image": "https://i0.wp.com/bankuratourism.com/wp-content/uploads/2023/07/jhilimili-1.jpeg?resize=1024%2C683&ssl=1",
+        "category": "Nature"
+      }
+    ]
+  },
+  {
+    "destination": "MURSHIDABAD",
+    "spots": [
+      {
+        "name": "HAZARDUARI  PALACE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hazarduari01_debaditya_chatterjee.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "KATRA MOSQUE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Katra_Masjid_panoramic_view.jpg",
+        "category": "Religious Spot/Heritage"
+      },
+      {
+        "name": "KATHGOLA PALACE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kathgola_satyajit_sinha.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "NASHIPUR PALACE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Nashipur_Rajbari.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "BEGUM AZIMUNISSA'S TOMB",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tomb_of_Azimunnisha_Begum.jpg",
+        "category": "History/Heritage"
+      }
+    ]
+  },
+  {
+    "destination": "NORTH  KOLKATA",
+    "spots": [
+      {
+        "name": "MARBLE PALACE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Marble_Palace-_Kolkata-_West_Bengal-_DSC_0006.jpg",
+        "category": "Heritage"
+      },
+      {
+        "name": "JORASANKO THAKUR BARI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jorasanko_Thakurbari.jpg/1365px-Jorasanko_Thakurbari.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "SHOVABAJAR RAJBARI",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ahsan_Manzil-Front_View.jpg",
+        "category": "History/Heritage"
+      },
+      {
+        "name": "DAKSHINESWAR TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Dakshineswar_Kali_Temple%2C_Kolkata.jpg",
+        "category": "Religious Spot"
+      }
+    ]
+  },
+  {
+    "destination": "PURULIA",
+    "spots": [
+      {
+        "name": "AYODHHA HILL",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ayodha_Hills.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "BAMNI FALLS",
+        "image": "https://www.indiawilds.com/forums/attachment.php?s=4d784be91ec52423743e6d53379c9f4d&attachmentid=18174&stc=1&d=1477770116",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "UPPER DAM",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f5/37/4a/upper-dam.jpg",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "LOWER DAM",
+        "image": "https://puruliatourism.com/wp-content/uploads/2023/01/Ajodhya_hills_lower_Dam.jpg",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "MARBLE LAKE",
+        "image": "https://www.getbengal.com/uploads/story_image/tourisim_marbel_lake-2020.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "MURUGUMA DAM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Murguma_Dam_01.jpg",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "KHAIRABERA DAM",
+        "image": "https://puruliatourism.com/wp-content/uploads/2023/01/8293448347_dd9fc18288_b.jpg",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "CHARIDA ( MASK VILLAGE)",
+        "image": "https://puruliatourism.com/wp-content/uploads/2023/01/077e3071-19eb-4380-8930-8c4f0a4c8991.jpg",
+        "category": "Rural/Nature"
+      },
+      {
+        "name": "GARH PANCHKOT ",
+        "image": "https://puruliatourism.com/wp-content/uploads/2023/01/Generic-6-5.jpg",
+        "category": "Hilly Area/Nature"
+      },
+      {
+        "name": "PANCHET DAM",
+        "image": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/bfi_thumb/2018091445-olw8upphz4wrinn4o6maeh6ebhjkf2fpe9x7uopeoa.jpg",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "BARANTI DAM",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sun_set_at_Baranti_Lake.jpg",
+        "category": "Water Reserve"
+      },
+      {
+        "name": "JOYCHANDI HILLS",
+        "image": "https://genytraveller.wordpress.com/wp-content/uploads/2019/03/joychandi-pahar-4-3.png?w=2200",
+        "category": "Hilly Area/Nature"
+      }
+    ]
+  },
+  {
+    "destination": "SOUTH KOLKATA",
+    "spots": [
+      {
+        "name": "KALIGHAT TEMPLE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kalighat_Temple_Kolkata_India_-_panoramio.jpg/1365px-Kalighat_Temple_Kolkata_India_-_panoramio.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "INDIAN BOTANICAL GARDEN",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kolkata_botanical_garden_pathway.jpg/768px-Kolkata_botanical_garden_pathway.jpg",
+        "category": "Nature"
+      },
+      {
+        "name": "ALIPORE ZOO",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Finding_for_food.jpg/1537px-Finding_for_food.jpg",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "BIRLA MANDIR",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Birla_Mandir_astounding_Beauty.jpg/768px-Birla_Mandir_astounding_Beauty.jpg",
+        "category": "Religious Spot"
+      },
+      {
+        "name": "SCIENCE CITY",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Science_City_Kolkata_4643.JPG/1542px-Science_City_Kolkata_4643.JPG",
+        "category": "Knowledge Spot"
+      }
+    ]
+  },
+  {
+    "destination": "SUNDARBANS",
+    "spots": [
+      {
+        "name": "SUNDARBANS NATIONAL PARK",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Save_the_sundarbans_20.jpg",
+        "category": "Forest/Wildlife Reserve"
+      },
+      {
+        "name": "SAJNEKHALI WILDLIFE SANCTUARY",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Sajnekhali_wildlife_sanctuary_and_others_part_of_Sundarbans_04.jpg",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "SUNDARBAN TIGER RESERVE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sundarban_Tiger.jpg",
+        "category": "Tiger Reserve"
+      },
+      {
+        "name": "CROCODILE BREEDING CENTRE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/SaltwaterCrocodile%28%27Maximo%27%29.jpg",
+        "category": "Wildlife Reserve"
+      },
+      {
+        "name": "HENRY ISLAND",
+        "image": "https://www.backpacknxplore.com/wp-content/uploads/2020/04/henry1.jpg",
+        "category": "Nature"
+      }
+    ]
+  }
+]
