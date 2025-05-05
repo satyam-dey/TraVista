@@ -1,0 +1,73 @@
+{
+    "help_questions": [
+      {
+        "question": "What is Travista?",
+        "answer": "Travista is a travel discovery platform that helps you explore various tourist destinations in West Bengal. It provides interactive maps, destination guides, related vlogs, and useful links to help you plan your travel experience."
+      },
+      {
+        "question": "How do I search for destinations on Travista?",
+        "answer": "You can use the search bar on the homepage to type the name of a place you're interested in. Travista will show you details about the location along with relevant media and links."
+      },
+      {
+        "question": "Does Travista show all of West Bengal's destinations?",
+        "answer": "Travista is focused on covering a wide range of popular and hidden gems across West Bengal. New destinations are added regularly, so keep checking back for updates."
+      },
+      {
+        "question": "Can I use the map to find destinations?",
+        "answer": "Yes! Travista features an interactive map that displays all destinations visually. You can click on any location to view its name, media, and links related to that spot."
+      },
+      {
+        "question": "What kind of content is available for each destination?",
+        "answer": "Each destination page typically includes its name, location, related YouTube vlogs, external links for more details, and a brief overview if available."
+      },
+      {
+        "question": "Can I get travel tips or guides on Travista?",
+        "answer": "Yes. Many destination entries include links to vlogs that provide travel tips, local experiences, and must-see spots in and around the area."
+      },
+      {
+        "question": "Is Travista only for West Bengal?",
+        "answer": "Currently, Travista focuses exclusively on destinations within West Bengal to give a more curated and region-specific experience."
+      },
+      {
+        "question": "Does Travista offer hotel booking or transportation services?",
+        "answer": "No, Travista is not a booking platform. It helps users discover destinations and provides links and media for further exploration, but does not handle bookings or ticketing."
+      },
+      {
+        "question": "Are the vlogs hosted on Travista or linked from other platforms?",
+        "answer": "The vlogs are linked from external platforms like YouTube. Travista embeds them for easier access when browsing destinations."
+      },
+      {
+        "question": "Can I suggest a destination to be added on Travista?",
+        "answer": "Yes! If you know a place in West Bengal that deserves to be featured, you can reach out via email or contact form (if available) to suggest it."
+      },
+      {
+        "question": "How do I use the interactive map effectively?",
+        "answer": "Zoom in and out to view destinations more clearly. Click on markers to reveal the destination name and associated content. Use the search bar to locate specific places directly."
+      },
+      {
+        "question": "Why are some destinations missing information or images?",
+        "answer": "Travista is still growing and building its content base. Some destinations may not yet have full media or link coverage, but this will improve over time."
+      },
+      {
+        "question": "Is Travista available on mobile devices?",
+        "answer": "Yes, Travista is mobile-responsive and works well on smartphones and tablets, so you can explore destinations on the go."
+      },
+      {
+        "question": "How frequently is the website updated?",
+        "answer": "New destinations, vlogs, and features are added regularly. We recommend checking the homepage or map view often for the latest additions."
+      },
+      {
+        "question": "Can I bookmark or save destinations for later?",
+        "answer": "Currently, Travista does not have a save/bookmark feature, but it may be added in a future update."
+      },
+      {
+        "question": "Is there a way to filter destinations by category?",
+        "answer": "Filtering by category or type (e.g., nature, temples, historical places) is not yet available, but it’s something planned for future improvements."
+      },
+      {
+        "question": "How can I contact the Travista team?",
+        "answer": "If you have suggestions or questions, you can reach out via the contact email or form provided on the website (if available)."
+      }
+    ]
+  }
+  

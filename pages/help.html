@@ -17,8 +17,24 @@
         }
 
         .gap {
-            margin-top: 4rem;
-            margin-bottom: 4rem;
+            margin: 8rem 0;
+        }
+
+        .card-title {
+            font-weight: 600;
+        }
+
+        .card-text {
+            font-size: 0.95rem;
+        }
+
+        #faq-results {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .search-bar {
+            border-bottom: 1px solid #e0e0e0;
         }
     </style>
 </head>
@@ -40,7 +56,7 @@
                         <a class="nav-link" aria-current="page" href="../index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="help.html">Support</a>
+                        <a class="nav-link active" href="help.html">Help</a>
                     </li>
 
                     <li class="nav-item dropdown">
@@ -66,22 +82,29 @@
         </div>
     </nav>
 
-    <div class="gap"></div>
     
-    <div class="search-bar d-flex justify-content-center">
+
+    <div class="search-bar fixed-top bg-white shadow-sm z-3 py-2 d-flex justify-content-center" style="margin-top: 56px;">
         <nav class="navbar">
             <div class="container-fluid">
-              <form class="d-flex" role="search">
-                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline" type="submit" style="color: rgb(226, 122, 43); border-color: rgb(226, 122, 43);">Search</button>
-              </form>
+                <form class="d-flex" role="search" id="faq-search-form">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
+                        id="faq-search-input">
+                    <button class="btn btn-outline" type="submit"
+                        style="color: rgb(226, 122, 43); border-color: rgb(226, 122, 43);">Search</button>
+                </form>
             </div>
-          </nav>
+        </nav>
     </div>
+
+    <div class="gap"></div>
+
+    <!-- Results Container -->
+    <div id="faq-results" class="container mt-4"></div>
 
     <!-- footer -->
     <footer class="container py-4 border-top">
-        <div class="row w-100 align-items-center">
+        <div class="row w-100 d-flex align-items-center">
             <div class="col-md-6 text-center text-md-start">
                 <p class="mb-0">© 2025 Travista, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
             </div>
@@ -91,6 +114,7 @@
         </div>
     </footer>
 
+    <script src="../scripts/help.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
     <script>
         AOS.init({
